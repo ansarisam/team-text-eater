@@ -1,0 +1,25 @@
+name: DAEN690
+channels:
+  - https://conda.anaconda.org/gurobi
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pytorch
+  - tensorflow
+  - pandas
+  - jupyter
+  - transformers
+  - tika
+  - spyder
+  - pytesseract
+  - pdf2image
+  - nltk
+  - datasets
+  - string
+  - spacy
+  - json
+  - spacy-model-en_core_web_sm
+  - more-itertools
+  - spacy-transformers
+prefix: C:\Users\kchai\anaconda3\envs\DAEN690
